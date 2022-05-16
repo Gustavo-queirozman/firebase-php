@@ -1,5 +1,6 @@
-Dependencie:
+# Dependência
 #composer require kreait/firebase-php
+
 
 File "get.php": 
 Make a request in firebase to get data
